@@ -15,6 +15,7 @@ public class Main {
             if(weatherLocation.equals("q")){
                 break;
             }
+            // Code to add yesterday's weather feature, can't retrieve information due to current API subscription plan
             // System.out.print("Enter if you would like the current or yesterday's weather (enter q to quit): ");
             // String weatherType = scanner.nextLine();
             // if(weatherType.equals("q")){
